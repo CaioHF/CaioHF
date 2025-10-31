@@ -34,8 +34,8 @@
 ## 📫 Contato
 
 ✉️ **Email:** caiohf01@gmail.com  
-💼 **LinkedIn: [[linkedin.com/in/caiohf](https://linkedin.com/in/caiohf) *(exemplo)](https://www.linkedin.com/in/caio-ferencine/)
-🌐 **Portfólio:caiohf.github.io/Porifolio
+💼 **LinkedIn: [[linkedin.com/in/caiohf](https://linkedin.com/in/caiohf)
+🌐 **Portfólio:[caiohf.github.io/Porifolio](https://caiohf.github.io/Portifolio/)
 
 ---
 
