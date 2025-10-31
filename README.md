@@ -33,9 +33,9 @@
 
 ## 📫 Contato
 
-✉️ **Email:** caiohf01@gmail.com  
-💼 **LinkedIn: [[linkedin.com/in/caiohf](https://linkedin.com/in/caiohf)
-🌐 **Portfólio:[caiohf.github.io/Porifolio](https://caiohf.github.io/Portifolio/)
+✉️ Email: caiohf01@gmail.com  
+💼 LinkedIn: [[linkedin.com/in/caiohf](https://linkedin.com/in/caiohf)
+🌐 Portfólio:[caiohf.github.io/Porifolio](https://caiohf.github.io/Portifolio/)
 
 ---
 
