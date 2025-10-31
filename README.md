@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Caio HF!
+# 👋 Olá, eu sou o Caio Ferencine!
 
-💻 Desenvolvedor Front-End em formação, apaixonado por criar interfaces modernas e responsivas.  
+💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.  
 🚀 Atualmente trabalhando em projetos pessoais como sites dinâmicos com HTML, CSS e JavaScript.  
 📚 Sempre aprendendo mais sobre automação com JSON, boas práticas de código e design responsivo.  
 
