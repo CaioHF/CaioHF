@@ -2,7 +2,7 @@
 
 💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.  
 🚀 Atualmente trabalhando em projetos pessoais como sites dinâmicos com HTML, CSS e JavaScript.  
-📚 Sempre aprendendo mais sobre automação com JSON, boas práticas de código e design responsivo.  
+📚 Sempre aprendendo mais sobre automação, boas práticas de código e design responsivo.  
 
 ---
 
@@ -33,13 +33,13 @@
 
 ## 📫 Contato
 
-✉️ **Email:** caiohf.dev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/caiohf](https://linkedin.com/in/caiohf) *(exemplo)*  
-🌐 **Portfólio:** [caiohf.github.io](https://caiohf.github.io) *(exemplo)*
+✉️ **Email:** caiohf01@gmail.com  
+💼 **LinkedIn: [[linkedin.com/in/caiohf](https://linkedin.com/in/caiohf) *(exemplo)](https://www.linkedin.com/in/caio-ferencine/)
+🌐 **Portfólio:caiohf.github.io/Porifolio
 
 ---
 
-> “A melhor maneira de prever o futuro é criá-lo.” — Peter Drucker
+> Não é a mais forte das espécies que sobrevive, nem a mais inteligente, mas a que melhor se adapta às mudanças. — Charles Darwin
 
 ---
 
