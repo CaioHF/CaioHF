@@ -1,4 +1,4 @@
-<h2 align="left">👋Hello, Word🌎! Eu sou o Caio Ferencine!</h2>
+<h2 align="center">👋Hello, Word🌎! Eu sou o Caio Ferencine!</h2>
 
 💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.  
 🚀 Foco em sites dinâmicos com HTML, CSS e JavaScript.  
