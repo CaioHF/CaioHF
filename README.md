@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <a href="https://www.instagram.com/caio_ferencine" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -10,7 +10,7 @@ div align="center">
   </a>
 </div>
 
-<h2 align="center">#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> Bem-vindos ao meu GitHub!</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Bem-vindos ao meu GitHub!</h2>
 
 🙋‍♂️ Olá, eu sou o Caio Ferencine!  
 <br>
