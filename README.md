@@ -14,7 +14,7 @@
 🙋‍♂️ Olá, eu sou o Caio Ferencine!
 <p></p>
 
-💻 Estudante no curso de Analise e Desenvolvimento de Sistemas. 
+💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.<br> 
 🚀 Foco em sites dinâmicos com HTML, CSS e JavaScript.
 📚 Criando projetos para aprimorar minhas habilidades.
 
