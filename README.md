@@ -15,7 +15,7 @@
 <p></p>
 
 💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.<br> 
-🚀 Foco em sites dinâmicos com HTML, CSS e JavaScript.
+🚀 Foco em sites dinâmicos com HTML, CSS e JavaScript.<br>
 📚 Criando projetos para aprimorar minhas habilidades.
 
 ###
