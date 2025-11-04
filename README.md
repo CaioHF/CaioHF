@@ -1,4 +1,4 @@
-<h2 align="left">Hello, Word! Eu sou o Caio Ferencine!</h2>
+<h2 align="left">[👋](https://iconscout.com/pt/lottie-animation/acenando-mao-emoji-12664561_10300880)Hello, Word! Eu sou o Caio Ferencine!</h2>
 
 ###
 
