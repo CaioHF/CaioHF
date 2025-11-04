@@ -10,9 +10,10 @@
   </a>
 </div>
 
-<h2 align="center">👋Bem vindos ao meu GitHub!</h2>
-🙋‍♂️ Olá, eu sou o Caio Ferencine!
-<p></p>
+<h2 align="center">👋 Bem-vindos ao meu GitHub!</h2>
+
+🙋‍♂️ Olá, eu sou o Caio Ferencine!  
+<br>
 
 💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.<br> 
 🚀 Foco em sites dinâmicos com HTML, CSS e JavaScript.<br>
@@ -20,9 +21,7 @@
 
 ###
 
-###
-
-<h2 align="left">🛠️Ferramentas e Tecnologias</h2>
+<h2 align="left">🛠️ Ferramentas e Tecnologias</h2>
 
 ###
 
@@ -48,12 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
 </div>
 
-###
-
-
-
-###
-
 ---
 
 ## 📈 Status
@@ -67,5 +60,12 @@
 
 ---
 
-###
+## 🐍 Snake Game
+
+<div align="center">
+  <img src="https://github.com/caiohf/caiohf/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 💭 “A persistência é o caminho do êxito.” — Charles Chaplin
