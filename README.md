@@ -10,7 +10,8 @@
   </a>
 </div>
 
-<h2 align="center">👋Hello, Word🌎! Eu sou o Caio Ferencine!</h2>
+<h2 align="center">👋Bem vindos ao meu GitHub</h2>
+🙋‍♂️ Olá, eu sou o Caio Ferencine!
 
 💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.  
 🚀 Foco em sites dinâmicos com HTML, CSS e JavaScript.  
@@ -23,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
