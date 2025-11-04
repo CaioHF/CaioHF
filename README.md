@@ -21,11 +21,7 @@
 🚀 Foco em sites dinâmicos com HTML, CSS e JavaScript.<br>
 📚 Criando projetos para aprimorar minhas habilidades.
 
-###
-
-<h2 align="left">🛠️ Ferramentas e Tecnologias</h2>
-
-###
+## <p align="left">🛠️ Ferramentas e Tecnologias</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -49,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
 </div>
 
----
+##
 
 ## 📈 Status
 
