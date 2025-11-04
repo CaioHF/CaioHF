@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+
 <div align="center">
   <a href="https://www.instagram.com/caio_ferencine" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -57,6 +59,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohf&layout=compact&theme=tokyonight)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 
 ---
 
