@@ -55,7 +55,7 @@
 
 ![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiohf&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohf&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohf&anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)(https://github.com/caiohf/github-readme-stats)
 
 </div>
 
