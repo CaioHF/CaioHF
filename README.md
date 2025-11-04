@@ -50,6 +50,17 @@
 
 ###
 
-<img align="right" height="150" src="content://media/external/downloads/1000195757"  />
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiohf&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohf&layout=compact&theme=tokyonight)
+
+</div>
+
+---
 
 ###
