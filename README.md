@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=409d48height=120&section=header"/>
 
 <div align="center">
   <a href="https://www.instagram.com/caio_ferencine" target="_blank">
@@ -14,7 +14,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Bem-vindos ao meu GitHub!</h1>
 
-🙋‍♂️ Olá, eu sou o Caio Ferencine!  
+🙋‍♂️ <h2>Olá, eu sou o Caio Ferencine!</h2>  
 <br>
 
 💻 Estudante no curso de Analise e Desenvolvimento de Sistemas.<br> 
@@ -60,8 +60,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-
 ---
 
 <div align="center">
@@ -69,3 +67,4 @@
 </div>
 
 ---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=409d488&height=120&section=footer"/>
