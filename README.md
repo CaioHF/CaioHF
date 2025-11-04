@@ -1,23 +1,4 @@
-<style>
-.wave {
-  display: inline-block;
-  animation: wave 1.5s infinite;
-  transform-origin: 70% 70%;
-}
-
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  40% { transform: rotate(14deg); }
-  50% { transform: rotate(-4deg); }
-  60% { transform: rotate(10deg); }
-  70% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
-
-<div align="center">
+div align="center">
   <a href="https://www.instagram.com/caio_ferencine" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -29,7 +10,7 @@
   </a>
 </div>
 
-<h2 align="center"><span class="wave">👋</span> Bem-vindos ao meu GitHub!</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> Bem-vindos ao meu GitHub!</h2>
 
 🙋‍♂️ Olá, eu sou o Caio Ferencine!  
 <br>
