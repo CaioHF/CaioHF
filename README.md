@@ -45,7 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
-/>
+  <img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="apache netbeans logo" />
+  <img width="15" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="45" alt="Claude Code logo" />
+  <img width="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="45" alt="OpenAI Codex logo" />
 </div>
 
 ##
