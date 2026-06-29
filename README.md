@@ -20,7 +20,7 @@
 <h4>🙋‍♂️ Olá, eu sou o Caio Ferencine!</h4>
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>
-🚀 Focado no desenvolvimento de sites dinâmicos com HTML, CSS e JavaScript.<br>
+🚀 Focado no desenvolvimento de aplicações web modernas e escaláveis.<br>
 📚 Sempre aprendendo novas tecnologias e desenvolvendo projetos para evoluir como desenvolvedor.
 
 ## 🛠️ Ferramentas e Tecnologias
@@ -61,6 +61,9 @@
 <img width="15"/>
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="45" alt="Claude Code"/>
+
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" alt="Supabase logo" />
 
 </div>
 
